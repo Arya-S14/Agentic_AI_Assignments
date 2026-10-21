@@ -1,0 +1,84 @@
+2026-08-27 15:02:11,187 | INFO | Starting BFS search.
+2026-08-27 15:02:11,188 | INFO | BFS found goal.
+2026-08-27 15:02:11,188 | INFO | Algorithm=BFS | Success=True | Nodes=164 | Path Length=28
+2026-08-27 15:02:20,199 | INFO | Starting DFS search.
+2026-08-27 15:02:20,199 | INFO | DFS found goal.
+2026-08-27 15:02:20,199 | INFO | Algorithm=DFS | Success=True | Nodes=53 | Path Length=32
+2026-08-27 15:02:26,603 | INFO | Starting BFS search.
+2026-08-27 15:02:26,603 | INFO | BFS found goal.
+2026-08-27 15:02:26,603 | INFO | Algorithm=BFS | Success=True | Nodes=107 | Path Length=28
+2026-08-27 15:02:26,603 | INFO | Starting DFS search.
+2026-08-27 15:02:26,603 | INFO | DFS found goal.
+2026-08-27 15:02:26,603 | INFO | Algorithm=DFS | Success=True | Nodes=41 | Path Length=34
+2026-08-27 15:03:27,211 | INFO | Starting BFS search.
+2026-08-27 15:03:27,212 | INFO | BFS found goal.
+2026-08-27 15:03:27,213 | INFO | Algorithm=BFS | Success=True | Nodes=167 | Path Length=28
+2026-08-27 15:03:43,366 | INFO | Starting DFS search.
+2026-08-27 15:03:43,366 | INFO | DFS found goal.
+2026-08-27 15:03:43,367 | INFO | Algorithm=DFS | Success=True | Nodes=48 | Path Length=42
+2026-08-27 15:03:49,461 | INFO | Starting BFS search.
+2026-08-27 15:03:49,462 | INFO | BFS found goal.
+2026-08-27 15:03:49,462 | INFO | Algorithm=BFS | Success=True | Nodes=167 | Path Length=28
+2026-08-27 15:03:49,462 | INFO | Starting DFS search.
+2026-08-27 15:03:49,462 | INFO | DFS found goal.
+2026-08-27 15:03:49,462 | INFO | Algorithm=DFS | Success=True | Nodes=48 | Path Length=42
+2026-08-27 15:04:10,283 | INFO | Starting BFS search.
+2026-08-27 15:04:10,285 | INFO | BFS found goal.
+2026-08-27 15:04:10,285 | INFO | Algorithm=BFS | Success=True | Nodes=142 | Path Length=28
+2026-08-27 15:04:23,529 | INFO | Starting DFS search.
+2026-08-27 15:04:23,529 | INFO | DFS found goal.
+2026-08-27 15:04:23,529 | INFO | Algorithm=DFS | Success=True | Nodes=51 | Path Length=40
+2026-08-27 15:04:40,026 | INFO | Starting DFS search.
+2026-08-27 15:04:40,026 | INFO | DFS found goal.
+2026-08-27 15:04:40,027 | INFO | Algorithm=DFS | Success=True | Nodes=51 | Path Length=40
+2026-08-27 15:04:49,469 | INFO | Starting DFS search.
+2026-08-27 15:04:49,469 | INFO | DFS found goal.
+2026-08-27 15:04:49,469 | INFO | Algorithm=DFS | Success=True | Nodes=131 | Path Length=36
+2026-08-27 15:05:04,929 | INFO | Starting BFS search.
+2026-08-27 15:05:04,930 | INFO | BFS found goal.
+2026-08-27 15:05:04,930 | INFO | Algorithm=BFS | Success=True | Nodes=153 | Path Length=28
+2026-08-27 15:05:21,876 | INFO | Starting BFS search.
+2026-08-27 15:05:21,878 | INFO | BFS found goal.
+2026-08-27 15:05:21,878 | INFO | Algorithm=BFS | Success=True | Nodes=153 | Path Length=28
+2026-08-27 15:05:21,878 | INFO | Starting DFS search.
+2026-08-27 15:05:21,879 | INFO | DFS found goal.
+2026-08-27 15:05:21,879 | INFO | Algorithm=DFS | Success=True | Nodes=131 | Path Length=36
+2026-09-01 13:22:24,530 | INFO | Starting BFS search.
+2026-09-01 13:22:24,532 | INFO | BFS found goal.
+2026-09-01 13:22:24,532 | INFO | Algorithm=BFS | Success=True | Nodes=162 | Path Length=28
+2026-09-01 13:22:43,091 | INFO | Starting DFS search.
+2026-09-01 13:22:43,092 | INFO | DFS found goal.
+2026-09-01 13:22:43,092 | INFO | Algorithm=DFS | Success=True | Nodes=50 | Path Length=40
+2026-09-01 13:22:56,172 | INFO | Starting BFS search.
+2026-09-01 13:22:56,173 | INFO | BFS found goal.
+2026-09-01 13:22:56,173 | INFO | Algorithm=BFS | Success=True | Nodes=113 | Path Length=28
+2026-09-01 13:22:56,173 | INFO | Starting DFS search.
+2026-09-01 13:22:56,173 | INFO | DFS found goal.
+2026-09-01 13:22:56,173 | INFO | Algorithm=DFS | Success=True | Nodes=41 | Path Length=38
+2026-09-01 13:23:35,263 | INFO | Starting DFS search.
+2026-09-01 13:23:35,265 | INFO | DFS found goal.
+2026-09-01 13:23:35,265 | INFO | Algorithm=DFS | Success=True | Nodes=55 | Path Length=36
+2026-09-01 13:23:45,493 | INFO | Starting BFS search.
+2026-09-01 13:23:45,495 | INFO | BFS found goal.
+2026-09-01 13:23:45,495 | INFO | Algorithm=BFS | Success=True | Nodes=170 | Path Length=28
+2026-09-01 13:23:59,396 | INFO | Starting DFS search.
+2026-09-01 13:23:59,397 | INFO | DFS found goal.
+2026-09-01 13:23:59,397 | INFO | Algorithm=DFS | Success=True | Nodes=55 | Path Length=36
+2026-09-01 13:23:59,625 | INFO | Starting DFS search.
+2026-09-01 13:23:59,626 | INFO | DFS found goal.
+2026-09-01 13:23:59,626 | INFO | Algorithm=DFS | Success=True | Nodes=55 | Path Length=36
+2026-09-04 15:28:49,353 | INFO | Starting BFS search.
+2026-09-04 15:28:49,354 | INFO | BFS found goal.
+2026-09-04 15:28:49,354 | INFO | Algorithm=BFS | Success=True | Nodes=165 | Path Length=28
+2026-09-04 15:29:05,895 | INFO | Starting BFS search.
+2026-09-04 15:29:05,896 | INFO | BFS found goal.
+2026-09-04 15:29:05,897 | INFO | Algorithm=BFS | Success=True | Nodes=149 | Path Length=28
+2026-09-04 15:29:05,897 | INFO | Starting DFS search.
+2026-09-04 15:29:05,897 | INFO | DFS found goal.
+2026-09-04 15:29:05,897 | INFO | Algorithm=DFS | Success=True | Nodes=39 | Path Length=36
+2026-09-04 15:29:56,699 | INFO | Starting BFS search.
+2026-09-04 15:29:56,700 | INFO | BFS found goal.
+2026-09-04 15:29:56,700 | INFO | Algorithm=BFS | Success=True | Nodes=169 | Path Length=28
+2026-09-04 15:30:16,776 | INFO | Starting DFS search.
+2026-09-04 15:30:16,776 | INFO | DFS found goal.
+2026-09-04 15:30:16,777 | INFO | Algorithm=DFS | Success=True | Nodes=43 | Path Length=30

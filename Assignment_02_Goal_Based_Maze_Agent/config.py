@@ -1,0 +1,21 @@
+"""
+Configuration for the Goal-Based Maze Agent.
+"""
+
+GRID_WIDTH = 15
+GRID_HEIGHT = 15
+
+CELL_SIZE = 40
+
+WINDOW_WIDTH = GRID_WIDTH * CELL_SIZE + 300
+WINDOW_HEIGHT = GRID_HEIGHT * CELL_SIZE + 80
+
+WINDOW_TITLE = "Goal-Based Maze Navigation Agent"
+
+MAX_GENERATION_ATTEMPTS = 100
+
+DEFAULT_OBSTACLE_DENSITY = 0.25
+
+ANIMATION_DELAY = 50
+
+LOG_FILE = "logs/maze_agent.log"
